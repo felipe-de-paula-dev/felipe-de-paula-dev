@@ -6,6 +6,10 @@ Estudante Na Área De Desenvolvimento de Sistemas no Cotil
 - 💻 Back end: C, Java Script
 - [acesse meu portfolio aqui](https://www.instagram.com/lypeex/)
 
+## Tecnologias que eu mais uso no meu dia
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-de-paula-dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-de-paula-dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
