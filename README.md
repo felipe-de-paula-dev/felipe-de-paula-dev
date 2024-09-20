@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Felipe de Paula</h1>
 <h3 align="center">Sou um Estudante Na Área De Desenvolvimento de Sistemas no Cotil</h3>
 
-- 🔭 Atualmente estou trabalho no meu **portfólio**
+- 🔭 Atualmente estou trabalhando no meu **portfólio**
 
 - 🌱 Atualmente estou estudando no **COTIL (Colegio técnico de limeira)**
 
