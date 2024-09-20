@@ -1,16 +1,20 @@
-## Hi there 👋
+## <h1>Olá, meu nome é Felipe de Paula
 
-<!--
-**felipe-de-paula-dev/felipe-de-paula-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante Na Área De Desenvolvimento de Sistemas no Cotil 
 
-Here are some ideas to get you started:
+- 💻 Front end: HTML, CSS, Bootstrap
+- 💻 Back end: C, Java Script
+- [acesse meu portfolio aqui](https://www.instagram.com/lypeex/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-de-paula-dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-de-paula-dev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<div style="display: inline_block">
+  <img align="center" alt="Felipe-Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Felipe-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Felipe-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Felipe-Sql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</div>
