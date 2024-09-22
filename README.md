@@ -9,7 +9,7 @@
 
 <h3 align="esquerda">Conecte-se comigo:</h3>
 <p align="esquerda">
-<a href="https://linkedin.com/in/felipe de paula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe de paula" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/felipe-de-paula-254654329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe de paula" height="30" width="40"/></a>
 <a href="https://instagram.com/lypeex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lypeex" height="30" width="40"/></a>
 </p>
 
