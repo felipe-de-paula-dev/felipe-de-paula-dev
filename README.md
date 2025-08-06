@@ -24,7 +24,7 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,javascript,node,mysql,postgresql,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,javascript,nodejs,mysql,postgresql,docker,c,react,cs,express,git,linux,nginx" />
   </a>
 </p>
 
