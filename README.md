@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou o Felipe de Paula</h1>
 <h3 align="center">Desenvolvedor em formação | Back-End & Fullstack</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?username=felipe-de-paula-dev&color=blueviolet&style=flat)
+
 - 🔭 Atualmente desenvolvendo meu **portfólio**  
 - 🌱 Estudando **Desenvolvimento de Sistemas** no **COTIL (Colégio Técnico da Unicamp - Limeira)**  
 - 💻 Experiência com **Java (Spring Boot), Node.js, React, SQL e Docker**  
