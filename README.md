@@ -26,6 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-de-paula-dev&show_icons=true&theme=github_dark&locale=en" alt="Felipe GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-de-paula-dev&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-de-paula-dev&show_icons=true&theme=github_dark&locale=en&count_private=true" alt="Felipe GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-de-paula-dev&show_icons=true&theme=github_dark&locale=en&layout=compact&count_private=true" alt="Top Languages" height="160"/>
 </div>
+
