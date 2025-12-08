@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Felipe de Paula</h1>
-<h3 align="center">Desenvolvedor em formação | Back-End & Fullstack</h3>
+<h3 align="center">Desenvolvedor | Back-End & Fullstack</h3>
 
 - 🔭 Atualmente desenvolvendo meu **portfólio**  
 - 🌱 Estudando **Desenvolvimento de Sistemas** no **COTIL (Colégio Técnico da Unicamp - Limeira)**  
