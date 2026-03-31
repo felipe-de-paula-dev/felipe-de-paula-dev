@@ -4,7 +4,6 @@
 - 🔭 Atualmente desenvolvendo meu **portfólio**  
 - 🌱 Estudando **Desenvolvimento de Sistemas** no **COTIL (Colégio Técnico da Unicamp - Limeira)**  
 - 💻 Experiência com **Java (Spring Boot), Node.js, React, SQL e Docker**  
-- 🚀 Buscando oportunidade de **Estágio em Desenvolvimento de Software**  
 
 ---
 
