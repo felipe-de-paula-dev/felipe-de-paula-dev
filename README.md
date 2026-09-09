@@ -18,23 +18,26 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,typescript,nodejs,express,react,angular,c,mysql,postgresql,docker,podman,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,typescript,nodejs,express,react,angular,c,mysql,postgresql,docker,arduino,linux,nginx" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats-amber-six-0rj4751flj.vercel.app/api?username=felipe-de-paula-dev&show_icons=true&count_private=true&theme=github_dark" 
-    alt="Felipe GitHub Stats" 
-    height="160"
+
+  <img
+    width="49%"
+    src="https://github-readme-stats-amber-six-0rj4751flj.vercel.app/api?username=felipe-de-paula-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    alt="Felipe GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats-amber-six-0rj4751flj.vercel.app/api/top-langs/?username=felipe-de-paula-dev&layout=compact&count_private=true&theme=github_dark" 
-    alt="Top Languages" 
-    height="160"
+
+  <img
+    width="41%"
+    src="https://github-readme-stats-amber-six-0rj4751flj.vercel.app/api/top-langs/?username=felipe-de-paula-dev&layout=compact&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Top Languages"
   />
+
 </div>
 
 
