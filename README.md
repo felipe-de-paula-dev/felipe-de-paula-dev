@@ -18,7 +18,7 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,typescript,nodejs,express,react,angular,c,,mysql,postgresql,docker,postman,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,typescript,nodejs,express,react,angular,c,mysql,postgresql,docker,podman,linux,nginx" />
   </a>
 </p>
 
